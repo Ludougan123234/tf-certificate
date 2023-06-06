@@ -6,4 +6,5 @@ This folder contains notes and exercise solutions for chapters 10 - 19 of the bo
 
 |  Chapter no.  |  Chapter name   |   Notebook URL   |  Status |
 |:------:|:-------:|:--------:|:------:|
-| 10 | Introduction to Artificial Neural Networks with Keras | [URL](https://github.com/Ludougan123234/tf-certificate/blob/main/HOML/chapter10.ipynb) | In progress ⏳ | 
+| 10 | Introduction to Artificial Neural Networks with Keras | [URL](https://github.com/Ludougan123234/tf-certificate/blob/main/HOML/chapter10.ipynb) | Completed ✅ | 
+| 11 | Training deep neural networks | URL | In progress ⏳| 
